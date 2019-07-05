@@ -1,0 +1,52 @@
+list_a loaded
+(1) Line  first
+(2) Line  second
+(3) Line  20
+(4) Line  2
+(5) Line  4
+(6) Line  5
+(7) Line  6
+(8) Line  7
+(9) Line  8
+(10) Line  9
+(11) Line  10
+(12) Line  11
+(13) Line  12
+(14) Line  13
+(15) Line  14
+(16) Line  15
+(17) Line  16
+(18) Line  17
+(19) Line  18
+(20) Line  19
+(21) Line  1
+(22) Line  last
+
+list_a rearranged
+(1) Welcome to C++
+(2) Line  1
+(3) Line  2
+(4) Line  3
+(5) Line  4
+(6) Line  5
+(7) Line  6
+(8) Line  7
+(9) Line  8
+(10) Line  9
+(11) Line  10
+(12) Line  11
+(13) Line  12
+(14) Line  13
+(15) Line  14
+(16) Line  15
+(17) Line  16
+(18) Line  17
+(19) Line  18
+(20) Line  19
+(21) Line  20
+(22) Have fun!
+Done!
+
+C:\Users\TLIN\Desktop\a1\LineListProject\Debug\LineListProject.exe (process 13392) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
